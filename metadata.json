@@ -1,0 +1,6 @@
+{
+  "name": "CamNote Add-in — Redmi Note 12 Pro 5G",
+  "description": "Công cụ bổ sung tính năng ghi chú nhanh kèm vị trí GPS và thời gian tự động ngay sau khi chụp ảnh trên Redmi Note 12 Pro 5G, kèm mã nguồn dịch vụ nền Android Kotlin.",
+  "requestFramePermissions": ["geolocation", "camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
